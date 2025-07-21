@@ -1,5 +1,18 @@
 # Quality Assurance Portfolio - Nureko Kustiarno Wibowo
 
+
+- [About Me](#about-me)
+- [CV](#cv)
+- [Skills](#skills)
+- [Tools](#tools)
+- [Courses](#courses)
+- [Examples of My Work](#examples-of-my-work)
+  - [Test Cases and Work in TestRail](#test-cases-and-work-in-testrail)
+  - [Bug Reports and Work in Jira](#bug-reports-and-work-in-jira)
+  - [Mindmaps and Diagrams](#mindmaps-and-diagrams)
+  - [Scripts for PICT (Pairwise Testing)](#scripts-for-pict-pairwise-testing)
+  - [Books I Have Read](#books-i-have-read)
+- [Licenses & Certifications](#licenses--certifications)
 ---
 
 ### **Contact Info:**
@@ -72,17 +85,20 @@ Below are examples of my work that demonstrate my approach to ensuring product q
 
 ### **Certifications & Education**
 
-**Professional Certifications**  
-- **Software Testing Foundations: Test Techniques** (LinkedIn Learning)  
-- **Software Testing Foundations: Test Management** (LinkedIn Learning)  
-- **API Testing Foundations** (LinkedIn Learning)
+**Licenses & Certifications**
+
+- **[API Testing Foundations](https://www.linkedin.com/learning/certificates/7548899dd534312e1e5004d8a89b24a0277bcd6772045d615ae9bc1148f23d40?trk=backfilled_certificate)**  
+  Issued: Sep 2021  
+  Issuer: LinkedIn Learning  
+
+- **[Software Testing Foundations: Test Management](https://www.linkedin.com/learning/certificates/0a5f2c4a6818ead2564c80baf64671fa753a678ea763a1a41d3129791aa37e1e?trk=backfilled_certificate)**  
+  Issued: Sep 2021  
+  Issuer: LinkedIn Learning  
+
+- **[Software Testing Foundations: Test Techniques](https://www.linkedin.com/learning/certificates/321e7e3fc972baf08ef4d584f52cb118fc5771979185ca63e41be2fc548f13af?trk=backfilled_certificate)**  
+  Issued: Sep 2021  
+  Issuer: LinkedIn Learning  
+
 
 **Formal Education**  
 - **Bachelor's Degree in Information Technology** - Amikom
-
----
-
-### **Contact**
-- 📧 Email: [kustiarnowibowo@gmail.com](mailto:kustiarnowibowo@gmail.com)  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.google.com/search?q=https.linkedin.com)  
-- 📍 Yogyakarta, Indonesia  
