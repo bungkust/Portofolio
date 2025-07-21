@@ -4,6 +4,7 @@
 
 ## Daftar Isi
 
+- [Contact](#contact)
 - [About Me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
@@ -16,6 +17,13 @@
   - [Scripts for PICT (Pairwise Testing)](#scripts-for-pict-pairwise-testing)
   - [Books I Have Read](#books-i-have-read)
 - [Licenses & Certifications](#licenses--certifications)
+
+---
+
+## Contact
+- 📧 Email: [kustiarnowibowo@gmail.com](mailto:kustiarnowibowo@gmail.com)  
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.google.com/search?q=https.linkedin.com)  
+- 📍 Yogyakarta, Indonesia
 
 ---
 
@@ -96,8 +104,3 @@ I am an experienced **Quality Assurance** professional with a proven track recor
   Issued: Sep 2021 | Issuer: LinkedIn Learning
 
 ---
-
-## Contact
-- 📧 Email: [kustiarnowibowo@gmail.com](mailto:kustiarnowibowo@gmail.com)  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.google.com/search?q=https.linkedin.com)  
-- 📍 Yogyakarta, Indonesia
