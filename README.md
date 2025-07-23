@@ -103,4 +103,7 @@ I am an experienced **Quality Assurance** professional with a proven track recor
 - **[Software Testing Foundations: Test Techniques](https://www.linkedin.com/learning/certificates/321e7e3fc972baf08ef4d584f52cb118fc5771979185ca63e41be2fc548f13af?trk=backfilled_certificate)**  
   Issued: Sep 2021 | Issuer: LinkedIn Learning
 
+- **[International Software Testing Qualifications Board (ISTQB) 4.0](https://www.linkedin.com/learning/certificates/0c95cc23263e076fc7104b0bab37b189ae771eca992bb1c8301aff5e0647e26a?trk=share_certificate)**
+  Issued: Jul 2025
+
 ---
