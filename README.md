@@ -95,15 +95,17 @@ I am an experienced **Quality Assurance** professional with a proven track recor
 ## Licenses & Certifications
 
 - **[API Testing Foundations](https://www.linkedin.com/learning/certificates/7548899dd534312e1e5004d8a89b24a0277bcd6772045d615ae9bc1148f23d40?trk=backfilled_certificate)**  
-  Issued: Sep 2021 | Issuer: LinkedIn Learning
+  Issued: Sep 2021
 
 - **[Software Testing Foundations: Test Management](https://www.linkedin.com/learning/certificates/0a5f2c4a6818ead2564c80baf64671fa753a678ea763a1a41d3129791aa37e1e?trk=backfilled_certificate)**  
-  Issued: Sep 2021 | Issuer: LinkedIn Learning
+  Issued: Sep 2021
 
 - **[Software Testing Foundations: Test Techniques](https://www.linkedin.com/learning/certificates/321e7e3fc972baf08ef4d584f52cb118fc5771979185ca63e41be2fc548f13af?trk=backfilled_certificate)**  
-  Issued: Sep 2021 | Issuer: LinkedIn Learning
+  Issued: Sep 2021
 
 - **[International Software Testing Qualifications Board (ISTQB) 4.0](https://www.linkedin.com/learning/certificates/0c95cc23263e076fc7104b0bab37b189ae771eca992bb1c8301aff5e0647e26a?trk=share_certificate)**
+  Issued: Jul 2025
+- **[Mobile Testing with Appium](https://www.linkedin.com/learning/certificates/c79e0c10868f903bf6f05b50db44d0d16783141de202d7cd6caf3f3320d6d4f0?trk=share_certificate)**  
   Issued: Jul 2025
 
 ---
